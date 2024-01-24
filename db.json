@@ -1,5 +1,42 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "5f64",
+      "name": "Marcus Krajcik"
+    },
+    {
+      "id": "4020",
+      "name": "Jesus Kutch"
+    },
+    {
+      "id": "9c04",
+      "name": "Darrin Baumbach PhD"
+    },
+    {
+      "id": "201b",
+      "name": "Lee Boyle DDS"
+    },
+    {
+      "id": "9376",
+      "name": "Dave Will"
+    },
+    {
+      "id": "a12c",
+      "name": "Lucas O'Reilly"
+    },
+    {
+      "id": "13a9",
+      "name": "Mr. Frank Von"
+    },
+    {
+      "id": "29ce",
+      "name": "Shawna Bins"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
