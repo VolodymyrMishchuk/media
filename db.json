@@ -5,22 +5,36 @@
       "name": "Shawn Olson"
     },
     {
-      "id": "6564",
-      "name": "Jenny Wehner"
-    },
-    {
-      "id": "efc9",
-      "name": "Jeremy Schoen"
-    },
-    {
-      "id": "d5e0",
-      "name": "Kim Schroeder"
-    },
-    {
-      "id": "78bf",
-      "name": "Abel White"
+      "id": "3c46",
+      "name": "Naomi Barrows"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "0246"
+    },
+    {
+      "id": "a4a1",
+      "userId": "0246",
+      "title": "Gorgeous Metal Shirt"
+    },
+    {
+      "id": "f947",
+      "userId": "0246",
+      "title": "Luxurious Rubber Mouse"
+    },
+    {
+      "id": "3ba4",
+      "userId": "0246",
+      "title": "Intelligent Cotton Towels"
+    },
+    {
+      "id": "3230",
+      "userId": "0246",
+      "title": "Small Frozen Towels"
+    }
+  ],
   "photos": []
 }
