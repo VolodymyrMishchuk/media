@@ -1,40 +1,185 @@
 {
   "users": [
     {
-      "id": "0246",
-      "name": "Shawn Olson"
+      "id": "3a95",
+      "name": "Mr. Sue Dickens"
     },
     {
-      "id": "3c46",
-      "name": "Naomi Barrows"
+      "id": "eb69",
+      "name": "Wesley Jacobi"
+    },
+    {
+      "id": "cc3e",
+      "name": "Gerard Wintheiser V"
     }
   ],
   "albums": [
     {
-      "id": 10,
+      "id": "10",
       "title": "Hiking Trip",
-      "userId": "0246"
+      "userId": null
     },
     {
       "id": "a4a1",
-      "userId": "0246",
+      "userId": null,
       "title": "Gorgeous Metal Shirt"
     },
     {
       "id": "f947",
-      "userId": "0246",
+      "userId": null,
       "title": "Luxurious Rubber Mouse"
     },
     {
       "id": "3ba4",
-      "userId": "0246",
+      "userId": null,
       "title": "Intelligent Cotton Towels"
     },
     {
       "id": "3230",
-      "userId": "0246",
+      "userId": null,
       "title": "Small Frozen Towels"
+    },
+    {
+      "id": "ca9d",
+      "userId": null,
+      "title": "Luxurious Metal Sausages"
+    },
+    {
+      "id": "ba65",
+      "userId": null,
+      "title": "Oriental Fresh Pants"
+    },
+    {
+      "id": "c7ea",
+      "userId": null,
+      "title": "Small Frozen Pants"
+    },
+    {
+      "id": "b245",
+      "userId": null,
+      "title": "Recycled Frozen Computer"
+    },
+    {
+      "id": "8321",
+      "userId": null,
+      "title": "Fantastic Steel Bacon"
+    },
+    {
+      "id": "c8ff",
+      "userId": null,
+      "title": "Tasty Wooden Bacon"
+    },
+    {
+      "id": "2eb0",
+      "userId": "cc3e",
+      "title": "Recycled Bronze Shoes"
+    },
+    {
+      "id": "3c5f",
+      "userId": "cc3e",
+      "title": "Recycled Steel Cheese"
+    },
+    {
+      "id": "a000",
+      "userId": "cc3e",
+      "title": "Refined Frozen Bacon"
+    },
+    {
+      "id": "2bea",
+      "userId": "eb69",
+      "title": "Rustic Cotton Chips"
+    },
+    {
+      "id": "7214",
+      "userId": "eb69",
+      "title": "Generic Metal Mouse"
+    },
+    {
+      "id": "d52f",
+      "userId": "eb69",
+      "title": "Elegant Metal Table"
+    },
+    {
+      "id": "6e33",
+      "userId": null,
+      "title": "Gorgeous Bronze Computer"
+    },
+    {
+      "id": "53d2",
+      "userId": "3a95",
+      "title": "Licensed Concrete Mouse"
+    },
+    {
+      "id": "d511",
+      "userId": "eb69",
+      "title": "Sleek Soft Cheese"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "2a89",
+      "albumId": "53d2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57264"
+    },
+    {
+      "id": "cac4",
+      "albumId": "53d2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=67049"
+    },
+    {
+      "id": "c03b",
+      "albumId": "53d2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30678"
+    },
+    {
+      "id": "6627",
+      "albumId": "53d2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49583"
+    },
+    {
+      "id": "51c5",
+      "albumId": "2bea",
+      "url": "https://loremflickr.com/150/150/abstract?lock=29855"
+    },
+    {
+      "id": "8ede",
+      "albumId": "7214",
+      "url": "https://loremflickr.com/150/150/abstract?lock=56763"
+    },
+    {
+      "id": "c897",
+      "albumId": "7214",
+      "url": "https://loremflickr.com/150/150/abstract?lock=73992"
+    },
+    {
+      "id": "7db2",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=35478"
+    },
+    {
+      "id": "28a2",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33458"
+    },
+    {
+      "id": "3a8e",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=73875"
+    },
+    {
+      "id": "06e1",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57177"
+    },
+    {
+      "id": "c7db",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1607"
+    },
+    {
+      "id": "3d62",
+      "albumId": "2eb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=63349"
+    }
+  ]
 }
